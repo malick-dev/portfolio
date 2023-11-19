@@ -1,7 +1,8 @@
 title: Malick
 logo: /assets/img/headshot.jpg
-description: Full Stack Developer & Devops
-#show_dowloads: true
+description: Full Stack Developer & Devops \ * 🌍  I'm based in Dakar
+* ✉️  You can contact me at [malick.developer@gmail.com](mailto:malick.developer@gmail.com)
+show_dowloads: false
 theme: jekyll-theme-minimal
 author:
   location: Paris, France
