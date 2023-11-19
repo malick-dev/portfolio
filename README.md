@@ -1,6 +1,7 @@
 # Developer
 
-### Work Experience
+## Work Experience
+
 **09/2020 - Present : Teach Lead | Keolis Group (Lille, France)**
 - Encadrement d’une équipe de 5 développeurs
 
@@ -36,13 +37,12 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
-## Projects 
-- project 1
-- project 2
-
-### Education
+## Education
 - 2016 – Ingénieur Informatique | Université de Technologie de Belfort-Montbéliard
 - 2012 – DUT Réseaux et Télécoms | Université d'Aix-Marseille
 - 2009 – Bac Scientifique | Sénégal
-  
+
+## Projects 
+
+## Skill
+
