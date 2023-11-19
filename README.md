@@ -1,6 +1,3 @@
-* 🌍  I'm based in Dakar
-* ✉️  You can contact me at [malick.developer@gmail.com](mailto:malick.developer@gmail.com)
-
 # Work Experience
 
 **09/2020 - Present : Teach Lead | Keolis Group (Lille, France)**
