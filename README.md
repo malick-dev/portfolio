@@ -1,6 +1,7 @@
-# Developer
+* 🌍  I'm based in Dakar
+* ✉️  You can contact me at [malick.developer@gmail.com](mailto:malick.developer@gmail.com)
 
-## Work Experience
+# Work Experience
 
 **09/2020 - Present : Teach Lead | Keolis Group (Lille, France)**
 - Encadrement d’une équipe de 5 développeurs
@@ -9,7 +10,6 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
 
 **09/2019 to 09/2020 : Devops | SNCF (Lille, France)**
 
@@ -37,16 +37,16 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Education
+# Education
 - 2016 – Ingénieur Informatique | Université de Technologie de Belfort-Montbéliard
 - 2012 – DUT Réseaux et Télécoms | Université d'Aix-Marseille
 - 2009 – Bac Scientifique | Sénégal
 
-## Projects 
+# Projects 
 
-## Skill
+# Skill
 
-## Socials
+# Socials
 
 <p align="left">
 <a href="https://www.linkedin.com/in/malickdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
