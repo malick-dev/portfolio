@@ -1,6 +1,7 @@
 # Work Experience
 
-**09/2020 - Present : Teach Lead | Keolis Group (Lille, France)**
+## Sept-2020 to Present | Teach Lead | Keolis Group (Lille, France)
+
 - Encadrement d’une équipe de 5 développeurs
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -8,7 +9,7 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-**09/2019 to 09/2020 : Devops | SNCF (Lille, France)**
+## Sept-2019 to Sept-2020 | Devops | SNCF (Lille, France)
 
 - Déploiement d'infrastructure Big Data sur Microsoft Azure avec Terraform et Ansible
 - Développement d'un pipeline de monitoring serveless avec Datadog et Azure Functions
@@ -23,7 +24,8 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-**03/2019 to 09/2019 : Lead Developer | NoConsulting (Lille, France)**
+## Mars-2019 to Sept-2019 | Lead Developer | NoConsulting (Lille, France)
+
 - Encadrement d’une équipe de 3 développeurs
 - Développement d’une app mobile avec Ionic hybride avec Ionic
 - Développement frontend avec AngularJS
@@ -35,6 +37,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 # Education
+
 - 2016 – Ingénieur Informatique | Université de Technologie de Belfort-Montbéliard
 - 2012 – DUT Réseaux et Télécoms | Université d'Aix-Marseille
 - 2009 – Bac Scientifique | Sénégal
