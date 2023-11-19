@@ -3,3 +3,5 @@ logo: /assets/img/headshot.jpg
 description: Full Stack Developer & Devops
 #show_dowloads: true
 theme: jekyll-theme-minimal
+author:
+  location: Paris, France
