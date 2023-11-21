@@ -44,13 +44,18 @@
 
 # Education
 
-- 2016 – Ingénieur Informatique | Université de Technologie de Belfort-Montbéliard
-- 2012 – DUT Réseaux et Télécoms | Université d'Aix-Marseille
-- 2009 – Bac Scientifique | Sénégal
+- 2016 - Ingénieur Informatique | Université de Technologie de Belfort-Montbéliard
+- 2012 - DUT Réseaux et Télécoms | Université d'Aix-Marseille
+- 2009 - Bac Scientifique | Sénégal
+
+# certifications
+...
 
 # Projects 
+...
 
 # Skill
+...
 
 # Socials
 
