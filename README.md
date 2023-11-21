@@ -1,7 +1,7 @@
 # Work Experience
 
-## Sept-2020 to Present | Teach Lead | Keolis Group
-> Lille, France
+## Teach Lead | Keolis Group
+> 📅 Sept-2020 to Present 📍 Lille, France
 
 
 - Encadrement d’une équipe de 5 développeurs
@@ -11,8 +11,8 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Sept-2019 to Sept-2020 | Devops | SNCF 
-> Lille, France
+## Devops | SNCF 
+> 📅 Sept-2019 to Sept-2020 📍 Lille, France
 
 
 - Déploiement d'infrastructure Big Data sur Microsoft Azure avec Terraform et Ansible
@@ -28,8 +28,8 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-## Mars-2019 to Sept-2019 | Lead Developer | NoConsulting
-> Lille, France
+## Lead Developer | NoConsulting
+> 📅 Mars-2019 to Sept-2019 📍 Lille, France
 
 
 - Encadrement d’une équipe de 3 développeurs
