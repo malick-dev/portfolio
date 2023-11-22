@@ -47,11 +47,14 @@
 📅 Sept-2016 to Janv-2019 
 📍 Dakar, Sénégal
 
+
 ##  Développeur Full Stack | Atos
 📅 sept. 2015 - févr. 2016 
 📍 Lyon, France
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 
 ##  Développeur Full Stack | Saint-Gobain · Stage
 📅 fév. 2014 - juil. 2014 
@@ -60,9 +63,11 @@
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
+
 ##  Développeur Full Stack | Saint-Gobain · Stage
 📅 fév. 2014 - juil. 2014 
 📍 Compiègne, l'Oise, France
+
 
 # Education
 
