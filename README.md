@@ -56,7 +56,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
-##  Développeur Full Stack | Saint-Gobain · Stage
+##  Développeur Full Stack | Saint-Gobain
 📅 fév. 2014 - juil. 2014 
 📍 Compiègne, l'Oise, France
 
@@ -64,9 +64,12 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
-##  Développeur Full Stack | Saint-Gobain · Stage
+##  Développeur Web | Pixtory
 📅 fév. 2014 - juil. 2014 
-📍 Compiègne, l'Oise, France
+📍 Marseille, France
+
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
 # Education
@@ -76,7 +79,8 @@
 - 2009 - Bac Scientifique, Sénégal
 
 # certifications
-...
+- Microsfot Azure Fundamentals 
+- Gestion de projet, Central Lille
 
 # Projects 
 ...
